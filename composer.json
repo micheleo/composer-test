@@ -1,0 +1,9 @@
+{
+  "name": "micheleo/test",
+  "description": "My Test",
+  "autoload": {
+    "psr-0": {
+      "Micheleo\\": "src/"
+    }
+  }
+}
